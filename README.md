@@ -25,7 +25,7 @@ BGMI-D-DOS is a powerful Denial of Service (DoS) tool designed to target Battleg
 
 ### Deployment
 
-1. Clone the repository: `git clone https://github.com/Chocoboy-310/BGMI-D-DOS.git`
+1. Clone the repository: `git clone https://github.com/diniiosofficial/DINI-IOS-DDOS-bot.git`
 2. Install the required dependencies: `sudo apt-get install python3 python3-pip`
 3. Install the required Python packages: `pip3 install requests`
 4. Configure the Telegram bot token and other settings in the `config.py` file
